@@ -1,16 +1,22 @@
-# Uncompahgre's Github
+# Uncompahgre
 
-> A senior developer
+Just steal it!
 
-[![Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnoph&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Interests
 
-| <a href="https://github.com/Unoph" title="trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Unoph&column=3" alt="trophy" /></a> | <a href="https://github.com/Unoph"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unoph&layout=compact&theme=discord_old_blurple&hide_border=true" /></a> |
-| ------------- | ------------- |
+- Security
+- Web Development
+- Machine Learning
 
----
 
-## Uncompahgre is a senior developer
+## Status
 
-Sometimes it's better to leave something alone, to pause, and that's very true of programming. A senior developer means I used to go through a senior way through the development journey, but also means I finally caught up with the professional way in the end.
+<a href="#stats" align="center">
+    <img align="center" alt="Unoph's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Unoph&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+</a>
+<br />
 
-[![Uncompahgre's Github Stats](https://github-readme-stats.vercel.app/api?username=Unoph&count_private=true&theme=discord_old_blurple&show_icons=true)](https://github.com/Unoph)
+<a href="#languages" align="center">
+    <img align="center" alt="Unoph's Top Language" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Unoph&hide=css,html,scss,less,stylus&langs_count=10&layout=compact&theme=tokyonight" />
+</a>
+<br />
